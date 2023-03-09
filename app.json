@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TesteDev_Dsin",
+    "slug": "TesteDev_Dsin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
